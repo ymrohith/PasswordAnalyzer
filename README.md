@@ -1,4 +1,4 @@
-# Password Analyzer (Java Project)
+# Password Analyzer 
 
 This is a simple Java console-based application that analyzes the strength of a user's password based on:
 
